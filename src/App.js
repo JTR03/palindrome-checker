@@ -19,7 +19,7 @@ function App() {
    if(joint === reversed){
      setCheck("Yes, it's a palindrome")
    }else{
-     setCheck("Sorry, that's not palindrome")
+     setCheck("Sorry, that's not a palindrome")
    }
  }
 
